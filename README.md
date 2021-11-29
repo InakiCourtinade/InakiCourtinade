@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my Event-In project
 - 🌱 I’m currently learning React-native and Firebase
-- 💬 Ask me about react, redux, javascript, express, node.js, postgresSQL, sequelize, HTML, CSS
+- 💬 Ask me about react, redux, javascript, express, node.js, postgresSQL, sequelize, HTML, CSS, React Native, Typescript
 - 📫 How to reach me: courtinadeinaki@gmail.com
 
 
